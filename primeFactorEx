@@ -30,7 +30,7 @@ class factorThread extends Thread{
 		}
 	}
 }
-public class primeFactoeEx {
+public class primeFactorEx {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		primeThread pt = new primeThread();
